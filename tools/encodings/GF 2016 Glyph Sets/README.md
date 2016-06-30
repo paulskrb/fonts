@@ -10,8 +10,9 @@ Three sets are available in this directory: **Plus, Pro and Expert.**
 
 ### Glyphs App Tip
 
-Inside **FilterLists** are text files with a list of glyphs for each set. 
-Open Glyphs and in the left bottom sidebar, create a new list filter, and paste the contents of these files to check if your fonts supports these characters. A ✓ will indicate you are all set. Otherwise **ctrl + click** on the numbers to generate missing glyphs.
+Inside [**FilterLists**](FilterLists) are text files with a list of glyphs for each set. 
+Open Glyphs and in the left bottom sidebar, create a new list filter, and paste the contents of these TXT files to check if your fonts supports these characters. A ✓ will indicate you are all set. Otherwise **ctrl + click** on the numbers to generate missing glyphs. If you get an error, select all glyphs in your font, from the top menu choose Glyph -> Update Glyph Info. Try again.
+If you still get an error, it's best to rename the exising glyphs according to the Glyphs naming scheme.
 
 ![Glyphs list filter](FilterLists/list-filter.png)
 ![Glyphs list filter](FilterLists/list-filter-1.png) 

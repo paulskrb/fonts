@@ -349,7 +349,7 @@
 0x00B4  ´ acute
 0x02C6  ˆ circumflex
 0x02C7  ˇ caron
-          caronalt
+          caroncomb.alt
 0x02DC  ˜ tilde
 0x00A8  ¨ dieresis
 0x00AF  ¯ macron
