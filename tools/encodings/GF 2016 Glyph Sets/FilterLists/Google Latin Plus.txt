@@ -1,5 +1,3 @@
-null
-CR
 space
 nbspace
 A
@@ -226,7 +224,6 @@ Scommaaccent
 scommaaccent
 Germandbls
 germandbls
-germandbls.alt
 Tcaron
 tcaron
 Tcedilla
